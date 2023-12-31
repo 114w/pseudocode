@@ -1,0 +1,19 @@
+.topic Conditionals
+
+.section if-stmt 
+.msg:comment "statement conveniently written as stmt"
+
+.example even
+.msg:desc "check divisibilty by 2"
+.protocol
+{
+.define
+.inherit:universe "arithmetic"
+ mod @sym:=map=: %
+ div @sym:=map=: /
+ ...
+}
+
+
+.LOG
+12302023 Creation
