@@ -1,19 +1,22 @@
-.topic Conditionals
-
-.section if-stmt 
-.msg:comment "statement conveniently written as stmt"
-
-.example even
-.msg:desc "check divisibilty by 2"
-.protocol
+.comment
 {
-.define
-.inherit:universe "arithmetic"
- mod @sym:=map=: %
- div @sym:=map=: /
- ...
+  name: "cond.pseudocode"
+  auth: 114w
+  desc: ?
+  date: Dec 30th, 2023; (latest) Mar 15th, 2024
 }
 
 
-.LOG
-12302023 Creation
+.topic Conditionals
+.remark ""
+
+.comment
+{
+  
+}
+
+.log
+{
+  12302023 Creation
+  03152024 Revision "Removed all the previous definitions, and is in empty state now." 
+}
