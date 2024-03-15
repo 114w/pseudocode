@@ -1,5 +1,5 @@
 .topic File Informations
-.remark "Every file must contains at least listed informations."
+.remark "Every source code file must contain at least listed informations."
 
 {
 .definition
