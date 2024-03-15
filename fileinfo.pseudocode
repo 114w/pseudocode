@@ -20,3 +20,11 @@ date: Mar 15th, 2024; (latest) Mar 15th, 2024
         And because these informations are not part of the code, they should be commented out.
         (It's at the user discretion if they like to use multiline or a single line comments)"
 }
+
+
+
+.log
+{
+  03152024 Creation
+  03152024 Revision "Fixed silly grammar and ambiguous statement, added .log section"
+}
