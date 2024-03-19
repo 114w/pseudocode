@@ -9,7 +9,7 @@ desc: PURPOSE OF THE FILE
 date: DATE OF THE FILE CREATION (ALONG WITH LATEST MODIFICATION DATE IF FILE HAS BEEN MODIFIED)
 
 .example
-name: "fileinfo.pseudocode"
+name: "fileinfo.gps"
 auth: 114w
 desc: This file contains information that source code file generally should have,
       along with the example of how it should be.
@@ -28,5 +28,6 @@ date: Mar 15th, 2024; (latest) Mar 18th, 2024
   03152024 Creation
   03152024 Revision "Fixed silly grammar and ambiguous statement, added .log section"
   03182024 Revision "File extension changed from `.pseudocode` to `.gps`, updated date
-                    in the .example section to indicate the last date file is modified"
+                    in the .example section to indicate the last date file is modified,
+                    fixed the name in the .example section (`file extension updated`)"
 }
