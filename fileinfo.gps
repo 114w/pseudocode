@@ -14,7 +14,7 @@ auth: 114w
 desc: This file contains information that source code file generally should have,
       along with the example of how it should be.
       Just an extra line for visual example (if the desc is too long how it should look)!
-date: Mar 15th, 2024; (latest) Mar 15th, 2024
+date: Mar 15th, 2024; (latest) Mar 18th, 2024
 
 .remark "It is encouraged to have these information at the beginning of the file, if possible.
         And because these informations are not part of the code, they should be commented out.
@@ -27,5 +27,6 @@ date: Mar 15th, 2024; (latest) Mar 15th, 2024
 {
   03152024 Creation
   03152024 Revision "Fixed silly grammar and ambiguous statement, added .log section"
-  03182024 Revision "File extension changed from `.pseudocode` to `.gps`"
+  03182024 Revision "File extension changed from `.pseudocode` to `.gps`, updated date
+                    in the .example section to indicate the last date file is modified"
 }
