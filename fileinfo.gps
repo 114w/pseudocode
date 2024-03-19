@@ -27,4 +27,5 @@ date: Mar 15th, 2024; (latest) Mar 15th, 2024
 {
   03152024 Creation
   03152024 Revision "Fixed silly grammar and ambiguous statement, added .log section"
+  03182024 Revision "File extension changed from `.pseudocode` to `.gps`"
 }
