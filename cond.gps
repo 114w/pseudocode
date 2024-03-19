@@ -1,0 +1,24 @@
+.comment
+{
+  name: "cond.gps"
+  auth: 114w
+  desc: ?
+  date: Dec 30th, 2023; (latest) Mar 18th, 2024
+}
+
+
+.topic Conditionals
+.remark ""
+
+.comment
+{
+  
+}
+
+.log
+{
+  12302023 Creation
+  03152024 Revision "Removed all the previous definitions, and is in empty state now."
+  03182024 Revision "File extension changed from `.pseudocode` to `.gps`, updated date
+                    in the .comment section to indicate the last date file is modified"
+}
