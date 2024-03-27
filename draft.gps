@@ -1,0 +1,41 @@
+.comment
+{
+  name: "draft.gps"
+  auth: 114w
+  desc: This file contains ideas that are planned to be implemented (or revised) in the near future.
+  date: Mar 26th, 2024
+}
+
+.log
+{
+  03262024 Creation
+}
+.end
+
+
+"IDEAS"
+
+  ideas group   |   ideas date
+------------------------------------
+  1             |   03262024
+  ?             |   ????2024
+  ?             |   ????2024
+  ?             |   ????2024
+  ?             |   ????2024
+------------------------------------
+
+
+01:01
+First thing first, how we should list ideas?
+>  itemize (nah), enumerate (customized) ...
+$  Probably design some way to group couple of ideas based on date they were proposed!
+$  I hereby propose convention for naming ideas as follows: `date_ideas_were_proposed:ideas_group:idea_number`
+$  but let `date_ideas_were_proposed` to be an optional component!
+$  e.g. `03262024:01:01` and `01:01` are equivalent and refer to the same idea!
+  
+01:02
+What is `.end` and `.comment`?
+>  The `.end` and `.comment` are a special `gps` keywords.
+$  The `.end` marks the end of valid `.gps` text. Thus, any thing beyond `.end` is theoretically skipped.
+$  As name suggests `.comment` indicates the comment text. The single line comment can be enclosed in double quotes
+$  e.g. `.comment "..."` and the multiline comment can be enclosed in curly braces e.g. `.comment {...}`
