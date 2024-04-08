@@ -18,7 +18,7 @@
   ideas group   |   ideas date
 ------------------------------------
   1             |   03262024
-  ?             |   ????2024
+  2             |   04072024
   ?             |   ????2024
   ?             |   ????2024
   ?             |   ????2024
@@ -39,3 +39,7 @@ What is `.end` and `.comment`?
 $  The `.end` marks the end of valid `.gps` text. Thus, any thing beyond `.end` is theoretically skipped.
 $  As name suggests `.comment` indicates the comment text. The single line comment can be enclosed in double quotes
 $  e.g. `.comment "..."` and the multiline comment can be enclosed in curly braces e.g. `.comment {...}`
+
+
+02:01
+Proposing `attr: LICENSING` (optional) attribute.
